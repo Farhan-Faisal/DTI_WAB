@@ -1,0 +1,45 @@
+l:Left Precentral Gyrus.............................:1  
+l:Left Superior Frontal Gyrus.......................:3  
+l:Left Superior Orbital Gyrus.......................:5  
+l:Left Middle Frontal Gyrus.........................:7  
+l:Left Middle Orbital Gyrus.........................:9  
+l:Left Inferior Frontal Gyrus (p. Opercularis)......:11 
+l:Left Inferior Frontal Gyrus (p. Triangularis).....:13 
+l:Left Inferior Frontal Gyrus (p. Orbitalis)........:15 
+l:Left Rolandic Operculum...........................:17 
+l:Left SMA..........................................:19 
+l:Left Olfactory cortex.............................:21 
+l:Left Superior Medial Gyrus........................:23 
+l:Left Mid Orbital Gyrus............................:25 
+l:Left Rectal Gyrus.................................:27 
+l:Left Insula Lobe..................................:29 
+l:Left Anterior Cingulate Cortex....................:31 
+l:Left Middle Cingulate Cortex......................:33 
+l:Left Posterior Cingulate Cortex...................:35 
+l:Left Hippocampus..................................:37 
+l:Left ParaHippocampal Gyrus........................:39 
+l:Left Amygdala.....................................:41 
+l:Left Calcarine Gyrus..............................:43 
+l:Left Cuneus.......................................:45 
+l:Left Linual Gyrus.................................:47 
+l:Left Superior Occipital Gyrus.....................:49 
+l:Left Middle Occipital Gyrus.......................:51 
+l:Left Inferior Occipital Gyrus.....................:53 
+l:Left Fusiform Gyrus...............................:55 
+l:Left Postcentral Gyrus............................:57 
+l:Left Superior Parietal Lobule.....................:59 
+l:Left Inferior Parietal Lobule.....................:61 
+l:Left SupraMarginal Gyrus..........................:63 
+l:Left Angular Gyrus................................:65 
+l:Left Precuneus....................................:67 
+l:Left Paracentral Lobule...........................:69 
+l:Left Caudate Nucleus..............................:71 
+l:Left Putamen......................................:73 
+l:Left Pallidum.....................................:75 
+l:Left Thalamus.....................................:77 
+l:Left Heschls Gyrus................................:79 
+l:Left Superior Temporal Gyrus......................:81 
+l:Left Temporal Pole................................:83 
+l:Left Middle Temporal Gyrus........................:85 
+l:Left Medial Temporal Pole.........................:87 
+l:Left Inferior Temporal Gyrus......................:89 
