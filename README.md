@@ -11,3 +11,5 @@
 ![FFaisal_NROD98_Poster](https://github.com/Farhan-Faisal/DTI_WAB/assets/77621905/734c4175-683f-4995-8ae5-c93af347dc7b)
 
 ### [PAPER LINK]()
+
+### [PRESENTATION SLIDES](https://github.com/Farhan-Faisal/DTI_WAB/files/15280773/NROD98_Presentation.pptx)
