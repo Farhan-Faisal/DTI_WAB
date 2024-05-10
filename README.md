@@ -1,6 +1,5 @@
 ### DESCRIPTION
 - Repository contains the scripts used to analyze the data in my undergraduate thesis (NROD98) project.
-- Each script should be well documented.
 
 ### FLOWCHART
 - Flowchart shows the sequence in which the scripts should be run.
