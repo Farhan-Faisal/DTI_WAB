@@ -1,39 +1,9 @@
-# DTI_WAB
-DTI WAB Analysis Pipeline (NROD98 Thesis)
-Awesome, thanks so much for closing the loop on that Farhan. This will be very useful for us going forward! 
-Jed
+### DESCRIPTION
+- This repository contains the scripts used to analyze the data in my undergraduate thesis (NROD98) project.
+- Each script should be well documented.
+- A flowchart showing the sequence in which the scripts should be run can be found [here](https://lucid.app/lucidchart/8c9c965f-8e9e-4be9-a93f-4923e7f7865b/view?invitationId=inv_27e68873-d9f7-4aa0-badd-af12b43a1fcf&page=0_0)
 
+### POSTER
+![FFaisal_NROD98_Poster](https://github.com/Farhan-Faisal/DTI_WAB/assets/77621905/734c4175-683f-4995-8ae5-c93af347dc7b)
 
-On 2024-05-09 8:21 p.m., Farhan Bin Faisal wrote:
-Hi Jed,
-Hope you are well.
- 
-This is the link to the updated version of the DTI project code documentation.
- DTI_DOC
- 
-It is a flowchart document which shows the sequence in which the scripts should be run. If you click on a node, it will show the documentation of that script. The flowchart also contains link to a GitHub repo that has all the scripts.
- 
-The scripts can also be found locally at:
- /rri_disks/eugenia/meltzer_lab/NROD98/wab_xtract/scripts
- 
-The DTI, MPRAGE, and Lesion Map images can be found locally at:
- /rri_disks/artemis/meltzer_lab/tvb_stroke
- 
-Hope this is helpful and meets expectations.
- 
-Best
-Farhan
- 
- 
- 
-
--- 
-Jed A. Meltzer, Ph.D.
-Neurorehabilitation Scientist
-Rotman Research Institute - Baycrest Centre
-3560 Bathurst Street
-Toronto, Ontario, M6A 2E1,CANADA
-
-P: 416 785-2500 x 2117           
-F: 416 785-2862
-jmeltzer@research.baycrest.org
+### [PAPER LINK]()
